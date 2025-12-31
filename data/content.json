@@ -1,0 +1,19 @@
+{
+  "hero": {
+    "badge": "SIGNATURE JOURNEY",
+    "title": "Hành trình tinh tế – chuẩn giới hạn",
+    "subtitle": "Khách hàng chỉ cần chọn cảm hứng, phần còn lại để đội ngũ concierge thiết kế hành trình riêng tư, sang trọng.",
+    "cta_primary": "Đặt tư vấn 1:1",
+    "cta_secondary": "Xem điểm đến gợi ý"
+  },
+  "services": [
+    {
+      "title": "Private Concierge 24/7",
+      "desc": "Theo sát từ khâu đặt vé, khách sạn đến từng yêu cầu nhỏ nhất."
+    },
+    {
+      "title": "Thiết kế hành trình riêng",
+      "desc": "Không tour đại trà – mỗi chuyến đi là một bản thiết kế cá nhân."
+    }
+  ]
+}
