@@ -16,8 +16,8 @@ app.add_middleware(
 DATA_FILE = "data/content.json"
 
 # mật khẩu đơn giản – đủ dùng giai đoạn đầu
-ADMIN_PASSWORD = "TS_TINH_ADMIN_2025"
-EDITOR_PASSWORD = "EDITOR_LUXURY"
+ADMIN_PASSWORD = "888888"
+EDITOR_PASSWORD = "111111"
 
 def load_data():
     with open(DATA_FILE, "r", encoding="utf-8") as f:
@@ -41,3 +41,4 @@ def update_content(
 
     save_data(payload)
     return {"status": "saved"}
+
